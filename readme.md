@@ -1,4 +1,4 @@
-## HTMLSaver
+## html_saver
 
 Just a simple gem to save the content in HTML file. 
 
@@ -12,7 +12,7 @@ touch Gemfile
 ```
 2. Add to your Gemfile the following:
 ```
-gem 'HTMLSaver'
+gem 'html_saver', git: 'https://github.com/KateHaman/html_saver', branch: 'main'
 ```
 3. Run bundle:
 ```
@@ -21,4 +21,3 @@ bundle
 ------------------------------------------------------------------------------------------------------------
 
 ## Thanks for reading!
-
